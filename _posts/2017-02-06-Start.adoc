@@ -2,7 +2,7 @@
 :hp-tags: start,first,story,original
 :hp-image: http://racereadycoaching.com/wp-content/uploads/2016/06/start-line-2-1.jpg
 
-*Description:* In which Hoonose is struggling to put transform her thoughts and feelings into words, and her frustrations bloom and bleed on paper, or, well, pixels, in a beautiful saga of self-discovery. Otherwise known as Hoonose is having trouble writing her first story, after a long battle with her browser and Github. Finding a Blackberry-friendly theme has never been harder.                            
+*Description:* Hoonose is struggling to transform her thoughts and feelings into words. Her frustrations bleed on paper, or, well, pixels, in a beautiful saga of self-discovery.
 
 '''
 The young woman slides down her wooden door, landing with an _oomph!_ She breathes out a sigh and flips open her piece-of-crap laptop (_a chromebook_, she thinks with a sneer) to open up Github. With a few clicks of the mouse (taking much more effort than it should because the trackpad is utterly useless), Hoonose is on her new Repository. Out of a sudden lack of inspiration, she names it _trashff_, a harsh, albeit accurate, reflection of what she expects the content of her new blog to become.
