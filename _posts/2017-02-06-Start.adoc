@@ -1,0 +1,42 @@
+= Start
+:hp-tags: start,first,story,original
+:hp-image: http://racereadycoaching.com/wp-content/uploads/2016/06/start-line-2-1.jpg
+
+*Description:* In which Hoonose is struggling to put transform her thoughts and feelings into words, and her frustrations bloom and bleed on paper, or, well, pixels, in a beautiful saga of self-discovery. Otherwise known as Hoonose is having trouble writing her first story, after a long battle with her browser and Github. Finding a Blackberry-friendly theme has never been harder.                            
+
+'''
+The young woman slides down her wooden door, landing with an _oomph!_ She breathes out a sigh and flips open her piece-of-crap laptop (_a chromebook_, she thinks with a sneer) to open up Github. With a few clicks of the mouse (taking much more effort than it should because the trackpad is utterly useless), Hoonose is on her new Repository. Out of a sudden lack of inspiration, she names it _trashff_, a harsh, albeit accurate, reflection of what she expects the content of her new blog to become.
+
+Her hunched shoulders start complaining out of soreness, and she pushes her laptop away none-too-carefully to retrieve her fluffiest, largest pillows. Hoonose shoves the pillows behind her back and neck haphazardly and she hopes that she can get at least a good ten minutes of sitting time to focus on her website.
+
+Hoonose navigates back to her repository page. She has no idea what any of the folders mean, but she figures since there's a README guide, she'll be alright.
+
+She was only half right.
+
+Technically setting up the website isn't difficult. She clicks the fork button. Waited. Changes a few words here and there to the title of her website, _trashff_, or her Github profile name, _quinez_.
+
+The problem, she finds, lies in the themes.
+
+Initially trying the "Ghostium" theme, Hoonose was not quite satisfied. Something was off with the website, at least for her purposes (which, although she won't explicitly say it, is for terrible, trashy fanfiction). So she tries "Ichi".
+
+Needless to say, she loves it. The way it is organized, the way the banner picture brightened when hovered over, the right side-bar's square-ness, it captivates her. She selects it instantly, changing her setting in the control panel to match with the theme.
+
+The process turns out much more difficult, however. Hoonose finds herself nitpicking on the "Read more" (she wants it to say "Read Story", it's petty but it's her website. Sue her), the way the excerpts ended at 400 characters and couldn't seem to host a description seperate of the story, and many more small details.
+
+Trying to fix and trim and cut and add takes a toll on Hoonose. What should have taken her ten minutes drags on until her alarm makes her aware that an hour had passed since she started playing around with the code.
+
+_Markdown_, Hoonose swears, _you will be the death of me_. She's promptly reminded with cold brutality that the language she's working with is asciidoc, not markdown, as opposed to what she had originally suspected. She digs her fingers into her carpet, leans her head back against her door, and tries to scream with her teeth gritted. Instead, a sigh comes out and she dutifully gets back to work.
+
+Giving up on "Ichi", Hoonose selects "Casper" with the reasoning that _it's the default it must be simple_. She changes all her settings back, adding a Disqus comment section to the bottom of the Posts template, unsure whether it will work or not. _It's worth a try either way. If it doesn't work I guess I just delete it_.
+
+Hoonose is finally able to get started on her first story. The hardships she encountered on her journey to the text editor were arduous, but she recognizes that the struggles have only just begun.
+
+Halfway through her first paragraph, Hoonose realises that she has no idea how to format her blog entry. A quick _Google_ search does the trick, and soon she's over-italicizing, underscores littering her story in places they don't _really_ belong.
+
+Hoonose treks through to her last few paragraphs. She removes her fingers from her keyboard to wring her hands and reflect at all that she has learned throughout her journey. Hoonose remembers all the inspirational posters tacked onto plaster-walls in grade schoo, the ones that read: "Life is the journey, not the destination," and thinks that she finally understands, with a grain of salt, what they were trying to convey. 
+
+Her fingers flitter back to hover over the keys for the last few words. She realises with a jolt that her theme may not even work, that she hasn't tested it on her laptop yet, let alone her even-crappier-than-the-laptop Blackberry Curve, but she pushes the thought away. 
+
+_It_ will _work, and right now I just need to focus on writing this_. 
+
+So she does exactly that as she closes off her last paragraph, leading the cursor (the one that hardly responds, making this a tedious task in itself) to the publish button. She hesistates for only a moment, and then she clicks...
