@@ -12,7 +12,12 @@
     "postsPerPage": "10",
     "disqus": "trashff"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "hoonosenosehoo@gmail.com",
+    "twitter": "https://twitter.com/quinezhoonose",
+    "googleplus": "plus.google.com/115758397335591659161",
+    "github": "https://github.com/quinez/"
+  },
   "theme": {
     "name": "casper"
   }
