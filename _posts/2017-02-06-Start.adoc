@@ -1,6 +1,6 @@
 = Start
-:hp-tags: start,first,story,original
-:hp-image: http://racereadycoaching.com/wp-content/uploads/2016/06/start-line-2-1.jpg
+:hp-tags: start,first,story,original,humor,crack,self-insert,auto,author,hoonose,quinez
+:hp-image: http://www.franchisebeat.com/wp-content/uploads/2015/06/starting-line-640.jpg
 
 *Description:* Hoonose is struggling to transform her thoughts and feelings into words. Her frustrations bleed on paper, or, well, pixels, in a beautiful saga of self-discovery.
 
